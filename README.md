@@ -25,5 +25,5 @@
 - Black-Scholes-Merton Model - Used to predict Fair Value of an Options Contract. Suitable for European markets where Options can be executed only at expiry.
 - The Greeks (Delta, Gamma, Theta, Vega) - Key parameters used in Risk Management
 
-### References
+#### References
 [^1]: [What Is Time Series Forecasting?](https://youtu.be/VRX-KmgKXBw?si=ZXHe-67hS3E-mndN)
