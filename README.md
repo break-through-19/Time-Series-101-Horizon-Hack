@@ -1,4 +1,4 @@
-# Time Series Forecasting
+# Time Series Forecasting in Finance
 * If you're just getting started on exploring time-series forecasting this repository is for you.
 * If you're looking for SOTA time-series forecasting techniques, this respository is for you as well.
 
@@ -25,5 +25,22 @@
 - Black-Scholes-Merton Model - Used to predict Fair Value of an Options Contract. Suitable for European markets where Options can be executed only at expiry.
 - The Greeks (Delta, Gamma, Theta, Vega) - Key parameters used in Risk Management
 
+## Interesting Monetozation Strategies
+### Arbitrage
+- Arbitrage is the practice of profiting from temporary price differences for the same asset in different markets by buying it cheap in one and selling it high in another, essentially locking in low-risk gains by exploiting market inefficiencies.
+- Common types include spatial, triangular (currencies), and merger arbitrage.
+
+<img width="602" height="621" alt="image" src="https://github.com/user-attachments/assets/b14b8682-3374-48ff-8720-ce3b88fb3bf3" />
+
+### Pair 
+
+## Notable Experts & Pioneers
+- [Thomas Peterffy](https://www.forbes.com/profile/thomas-peterffy/)
+
+## Readworthy Articles
+- [History of Algorithmic Trading - 17th to 21st century](https://analyzingalpha.com/algorithmic-trading-history)
+
+
 #### References
 [^1]: [What Is Time Series Forecasting?](https://youtu.be/VRX-KmgKXBw?si=ZXHe-67hS3E-mndN)
+[^2]: [What is Arbitrage?](https://www.investopedia.com/terms/a/arbitrage.asp#toc-what-is-arbitrage)
