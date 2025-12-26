@@ -30,7 +30,7 @@
 - Arbitrage is the practice of profiting from temporary price differences for the same asset in different markets by buying it cheap in one and selling it high in another, essentially locking in low-risk gains by exploiting market inefficiencies.
 - Common types include spatial, triangular (currencies), and merger arbitrage.
 
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/b14b8682-3374-48ff-8720-ce3b88fb3bf3" />
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b14b8682-3374-48ff-8720-ce3b88fb3bf3" />
 
 ### Pair 
 
