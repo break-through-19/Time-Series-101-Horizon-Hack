@@ -19,8 +19,11 @@
 
 ### Deep Learning
 - Neural Networks based: LSTM, RNN
-- Transformer based: Chronos, TiDE
+- Transformer based: [Chronos](https://github.com/break-through-19/chronos-forecasting), [TiDE](https://github.com/break-through-19/TiDE), [TimesFM](https://github.com/break-through-19/timesfm) 
 
+## Interesting concepts:
+- Black-Scholes-Merton Model - Used to predict Fair Value of an Options Contract. Suitable for European markets where Options can be executed only at expiry.
+- The Greeks (Delta, Gamma, Theta, Vega) - Key parameters used in Risk Management
 
 ### References
 [^1]: [What Is Time Series Forecasting?](https://youtu.be/VRX-KmgKXBw?si=ZXHe-67hS3E-mndN)
