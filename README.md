@@ -8,8 +8,19 @@
 - **Cycles** - Cycles occur when there is an up and down pattern that is non-seasonal (that is, unpredictable and not  occurring at regular intervals). The length is varied. Difficult to detect than seasonality.
 - **Irregularities** - Extreme dips and jumps in the time series.
 
+## Evolution of Methods
 
+### Statistical Models
+- ARIMA (Auto Regressive Integrated Moving Average)
+- ETS (Exponential Smoothing)
+### Machine Learning
+- XGBoost
+- LightGBM
+
+### Deep Learning
+- Neural Networks based: LSTM, RNN
+- Transformer based: Chronos, TiDE
 
 
 ### References
-[^1]: [What Is Time Series Forecasting?] (https://youtu.be/VRX-KmgKXBw?si=ZXHe-67hS3E-mndN)
+[^1]: [What Is Time Series Forecasting?](https://youtu.be/VRX-KmgKXBw?si=ZXHe-67hS3E-mndN)
