@@ -25,14 +25,20 @@
 - Black-Scholes-Merton Model - Used to predict Fair Value of an Options Contract. Suitable for European markets where Options can be executed only at expiry.
 - The Greeks (Delta, Gamma, Theta, Vega) - Key parameters used in Risk Management
 
-## Interesting Monetozation Strategies
+## Interesting Monetization Strategies
 ### Arbitrage
 - Arbitrage is the practice of profiting from temporary price differences for the same asset in different markets by buying it cheap in one and selling it high in another, essentially locking in low-risk gains by exploiting market inefficiencies.
-- Common types include spatial, triangular (currencies), and merger arbitrage.
+- Variants include spatial (as explained in previous point), triangular (currencies), and merger arbitrage.
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b14b8682-3374-48ff-8720-ce3b88fb3bf3" />
 
-### Pair 
+### Statiscal Arbitrage
+- Statistical arbitrage (often called "stat arb") is a highly quantitative and computationally intensive trading strategy that uses statistical models to identify and profit from temporary pricing inefficiencies in a large number of financial assets.
+- The core principle of statistical arbitrage is **mean reversion**, the theory that prices and returns eventually move back towards their historical averages or expected values. 
+
+### Pairs Trading (Mean Reversion)
+
+### 
 
 ## Notable Experts & Pioneers
 - [Thomas Peterffy](https://www.forbes.com/profile/thomas-peterffy/)
