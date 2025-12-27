@@ -32,13 +32,22 @@
 
 <img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/b14b8682-3374-48ff-8720-ce3b88fb3bf3" />
 
+### Triangular Arbitrage
+- Triangular arbitrage is a forex strategy exploiting pricing gaps between three currencies by trading them in a cycle (e.g., USD -> EUR -> GBP -> USD) to profit from the difference between the direct and implied exchange rates, locking in a risk-free profit when the market rates don't align.
+- It involves three trades: currency 1 to 2, 2 to 3, then 3 back to 1, aiming to end with more of the initial currency.
+- While theoretically simple, these opportunities are rare and fleeting due to automated trading, requiring high speed and low transaction costs to capture profit from tiny mispricings.
+
+<img width="540" height="380" alt="image" src="https://github.com/user-attachments/assets/252ea66c-ade8-44f5-a9f0-ede0c32d4718" />
+
+
 ### Statiscal Arbitrage
 - Statistical arbitrage (often called "stat arb") is a highly quantitative and computationally intensive trading strategy that uses statistical models to identify and profit from temporary pricing inefficiencies in a large number of financial assets.
 - The core principle of statistical arbitrage is **mean reversion**, the theory that prices and returns eventually move back towards their historical averages or expected values. 
 
 ### Pairs Trading (Mean Reversion)
-
-### 
+- Pairs trading is a market-neutral investment strategy where a trader simultaneously takes a long position in one security and a short position in another highly correlated security.
+- The goal is to profit from the relative price movements (the "spread") between the two assets, rather than the overall market direction.
+- The core idea is based on the principle of mean reversion, which assumes that the prices of two historically linked assets will eventually return to their long-term historical relationship if they temporarily diverge. 
 
 ## Notable Experts & Pioneers
 - [Thomas Peterffy](https://www.forbes.com/profile/thomas-peterffy/)
