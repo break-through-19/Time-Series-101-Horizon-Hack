@@ -58,6 +58,8 @@
 - [History of Algorithmic Trading - 17th to 21st century](https://analyzingalpha.com/algorithmic-trading-history)
 - [How Harry Markowitz Revolutionized Investing with Modern Portfolio Theory](https://www.investopedia.com/terms/h/harrymarkowitz.asp)
 
+## Books that might help
+- [Stefan Jansen's ML for Trading](https://github.com/stefan-jansen/machine-learning-for-trading)
 
 #### References
 [^1]: [What Is Time Series Forecasting?](https://youtu.be/VRX-KmgKXBw?si=ZXHe-67hS3E-mndN)
