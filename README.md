@@ -8,7 +8,7 @@
 - **Cycles** - Cycles occur when there is an up and down pattern that is non-seasonal (that is, unpredictable and not  occurring at regular intervals). The length is varied. Difficult to detect than seasonality.
 - **Irregularities** - Extreme dips and jumps in the time series.
 
-## Evolution of Methods
+## Evolution of Time Series Forecasting Methods
 
 ### Statistical Models
 - ARIMA (Auto Regressive Integrated Moving Average)
