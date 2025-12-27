@@ -42,9 +42,12 @@
 
 ## Notable Experts & Pioneers
 - [Thomas Peterffy](https://www.forbes.com/profile/thomas-peterffy/)
+- Jim Simons - Renaissance Tech
+- Harry Markowitz - The Modern Portfolio Theory
 
 ## Readworthy Articles
 - [History of Algorithmic Trading - 17th to 21st century](https://analyzingalpha.com/algorithmic-trading-history)
+- [How Harry Markowitz Revolutionized Investing with Modern Portfolio Theory](https://www.investopedia.com/terms/h/harrymarkowitz.asp)
 
 
 #### References
