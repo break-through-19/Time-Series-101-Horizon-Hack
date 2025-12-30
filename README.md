@@ -44,6 +44,10 @@
 - Statistical arbitrage (often called "stat arb") is a highly quantitative and computationally intensive trading strategy that uses statistical models to identify and profit from temporary pricing inefficiencies in a large number of financial assets.
 - The core principle of statistical arbitrage is **mean reversion**, the theory that prices and returns eventually move back towards their historical averages or expected values. 
 
+### Dual-Class Arbitrage
+- Dual class arbitrage is an equity arbitrage strategy that exploits temporary price differences between two share classes of the same company, typically a voting and a non‑voting (or reduced‑voting) class with identical cash‑flow rights.
+- The core idea is to go long the underpriced class and short the overpriced class in matched size, betting that their price spread will revert toward a normal or economically justified level.
+
 ### Pairs Trading (Mean Reversion)
 - Pairs trading is a market-neutral investment strategy where a trader simultaneously takes a long position in one security and a short position in another highly correlated security.
 - The goal is to profit from the relative price movements (the "spread") between the two assets, rather than the overall market direction.
